@@ -1,0 +1,2 @@
+classdef Heterogeneous<matlab.mixin.Heterogeneous
+end

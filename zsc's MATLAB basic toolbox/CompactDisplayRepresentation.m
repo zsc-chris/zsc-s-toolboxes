@@ -1,0 +1,2 @@
+classdef CompactDisplayRepresentation<matlab.display.CompactDisplayRepresentation
+end
